@@ -1,0 +1,38 @@
+c:\users\jacob\documents\visual studio 2015\Projects\Warehouse\Warehouse\bin\Debug\Warehouse.exe.config
+c:\users\jacob\documents\visual studio 2015\Projects\Warehouse\Warehouse\bin\Debug\Warehouse.exe
+c:\users\jacob\documents\visual studio 2015\Projects\Warehouse\Warehouse\bin\Debug\Warehouse.pdb
+c:\users\jacob\documents\visual studio 2015\Projects\Warehouse\Warehouse\obj\Debug\Warehouse.Stock.resources
+c:\users\jacob\documents\visual studio 2015\Projects\Warehouse\Warehouse\obj\Debug\Warehouse.Properties.Resources.resources
+c:\users\jacob\documents\visual studio 2015\Projects\Warehouse\Warehouse\obj\Debug\Warehouse.Item.resources
+c:\users\jacob\documents\visual studio 2015\Projects\Warehouse\Warehouse\obj\Debug\Warehouse.Order.resources
+c:\users\jacob\documents\visual studio 2015\Projects\Warehouse\Warehouse\obj\Debug\Warehouse.csproj.GenerateResource.Cache
+c:\users\jacob\documents\visual studio 2015\Projects\Warehouse\Warehouse\obj\Debug\Warehouse.exe
+c:\users\jacob\documents\visual studio 2015\Projects\Warehouse\Warehouse\obj\Debug\Warehouse.pdb
+C:\Users\jacob\documents\visual studio 2015\Projects\Warehouse\Warehouse\obj\Debug\Warehouse.csprojResolveAssemblyReference.cache
+C:\Users\jacob\Documents\Visual Studio 2015\Projects\Warehouse - Copy\Warehouse\bin\Debug\Warehouse.exe.config
+C:\Users\jacob\Documents\Visual Studio 2015\Projects\Warehouse - Copy\Warehouse\obj\Debug\Warehouse.exe
+C:\Users\jacob\Documents\Visual Studio 2015\Projects\Warehouse - Copy\Warehouse\obj\Debug\Warehouse.pdb
+C:\Users\jacob\Documents\Visual Studio 2015\Projects\Warehouse - Copy\Warehouse\bin\Debug\Warehouse.exe
+C:\Users\jacob\Documents\Visual Studio 2015\Projects\Warehouse - Copy\Warehouse\bin\Debug\Warehouse.pdb
+C:\Users\jacob\Documents\Visual Studio 2015\Projects\Warehouse - Copy\Warehouse\obj\Debug\Warehouse.csprojResolveAssemblyReference.cache
+C:\Users\jacob\Documents\Visual Studio 2015\Projects\Warehouse - Copy\Warehouse\obj\Debug\Warehouse.Stock.resources
+C:\Users\jacob\Documents\Visual Studio 2015\Projects\Warehouse - Copy\Warehouse\obj\Debug\Warehouse.Properties.Resources.resources
+C:\Users\jacob\Documents\Visual Studio 2015\Projects\Warehouse - Copy\Warehouse\obj\Debug\Warehouse.Item.resources
+C:\Users\jacob\Documents\Visual Studio 2015\Projects\Warehouse - Copy\Warehouse\obj\Debug\Warehouse.csproj.GenerateResource.Cache
+C:\Users\jacob\Documents\Visual Studio 2015\Projects\Warehouse - Copy\Warehouse\obj\Debug\Warehouse.NewItem.resources
+C:\Users\jacob\Documents\Visual Studio 2015\Projects\Warehouse - Copy\Warehouse\bin\Debug\itextsharp.dll
+C:\Users\jacob\Documents\Visual Studio 2015\Projects\Warehouse - Copy\Warehouse\bin\Debug\itextsharp.xml
+C:\Users\jacob\Documents\Visual Studio 2015\Projects\Warehouse - Copy\Warehouse\obj\Debug\Warehouse.OrderControl.resources
+C:\Users\jacob\Documents\Visual Studio 2015\Projects\Warehouse - Copy\Warehouse\obj\Debug\Warehouse.jord2.resources
+C:\Users\jacob\Documents\Visual Studio 2015\Projects\Warehouse - Copy\Warehouse\obj\Debug\Warehouse.Clients.resources
+C:\Users\jacob\Documents\Visual Studio 2015\Projects\Warehouse - Copy\Warehouse\obj\Debug\Warehouse.doublelines.resources
+C:\Users\jacob\Documents\Visual Studio 2015\Projects\Warehouse - Copy\Warehouse\obj\Debug\Warehouse.ChildForm.resources
+C:\Users\jacob\Documents\Visual Studio 2015\Projects\Warehouse - Copy\Warehouse\obj\Debug\Warehouse.OrderForm.resources
+C:\Users\jacob\Documents\Visual Studio 2015\Projects\Warehouse - Copy\Warehouse\obj\Debug\Warehouse.Parent.resources
+C:\Users\jacob\Documents\Visual Studio 2015\Projects\Warehouse - Copy\Warehouse\obj\Debug\Warehouse.WProduct.resources
+C:\Users\jacob\Documents\Visual Studio 2015\Projects\Warehouse - Copy\Warehouse\obj\Debug\Warehouse.Form3.resources
+C:\Users\jacob\Documents\Visual Studio 2015\Projects\Warehouse - Copy\Warehouse\bin\Debug\Microsoft.Office.Tools.Common.v4.0.Utilities.dll
+C:\Users\jacob\Documents\Visual Studio 2015\Projects\Warehouse - Copy\Warehouse\bin\Debug\Microsoft.Office.Tools.Excel.v4.0.Utilities.dll
+C:\Users\jacob\Documents\Visual Studio 2015\Projects\Warehouse - Copy\Warehouse\bin\Debug\Microsoft.Office.Tools.Common.v4.0.Utilities.xml
+C:\Users\jacob\Documents\Visual Studio 2015\Projects\Warehouse - Copy\Warehouse\bin\Debug\Microsoft.Office.Tools.Excel.v4.0.Utilities.xml
+C:\Users\jacob\Documents\Visual Studio 2015\Projects\Warehouse - Copy\Warehouse\obj\Debug\Warehouse.csproj.ResolveComReference.cache
